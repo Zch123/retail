@@ -1,2 +1,1 @@
-# retail
-1.0
+# 宜必思app react-native 开发
